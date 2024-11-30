@@ -90,4 +90,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or contributions, please open an issue or submit a pull request 👌
+For any inquiries or contributions - please open an issue or submit a pull request 👌
